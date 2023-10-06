@@ -12,8 +12,9 @@
  let birthYear= 2000;
 
  let age= futureYear-birthYear;
+ let ageplus1= age + 1;
 
- let message= "En el año " + futureYear + " yo voy a tener "+ age + " años" ;
+ let message= "En el año " + futureYear + " yo voy a tener "+ age + " años o " + ageplus1 + " años" ;
 
  console.log(message); 
 

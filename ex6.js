@@ -11,7 +11,6 @@
  * 
  * 
  */
-
 let numeroPi = Math.PI;
 let radio = 3;
 let area = numeroPi * radio**2; areaRedondeada= area.toFixed(2);
