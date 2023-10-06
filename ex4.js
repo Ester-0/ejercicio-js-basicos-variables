@@ -16,6 +16,7 @@
  * 
  */
 
+
 let numeroGatos = 0;
 let proximaPareja = "un millonario";
 let pais = "Noruega";
