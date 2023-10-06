@@ -15,5 +15,5 @@ let numJuguetes = 5;
 let numHorasSueño = 16;
 let jugandoAhora = "pelota";
 
-let historiaGato= ; // modificar solamente  esta línea
+let historiaGato ; // modificar solamente  esta línea
 console.log(historiaGato);
