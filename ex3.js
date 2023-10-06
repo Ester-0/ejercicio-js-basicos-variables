@@ -2,14 +2,11 @@
  * Jugando con string
  */
 
-let nombre = "Mad", espacio = " ";
+let nombre = "Mad";
 let apellido ="Max";
 
-nombre= "Ester"
-apellido="Fenero"
+let presentacion ="Me llamo" + nombre + " " + apellido;
 
-
-let presentacion =nombre +espacio + apellido;
 
 /**
  * Pregunta 1: ¿Qué valor tengo que asignar a 'presenetacion' para que me muestre pantalla:
@@ -19,10 +16,15 @@ let presentacion =nombre +espacio + apellido;
  * 
  */
 
-console.log("Pregunta 1:", "Me llamo", presentacion);
+console.log("Pregunta 1:", presentacion);
 
 /**
  * Pregunta 2: Cambia el valor de las variables adecuadamente para que, en vez de "Me llamo Mad Max", escribe "Me llamo {tu nombre} {tu apellido}"
  */
 
-console.log("Pregunta 2:", "Me llamo", presentacion);
+nombre= "Ester"
+apellido="Fenero"
+
+let presentacion2 ="Me llamo " + nombre + " " + apellido;
+
+console.log("Pregunta 2:", presentacion2);
