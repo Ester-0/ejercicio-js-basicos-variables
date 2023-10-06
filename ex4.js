@@ -17,10 +17,10 @@
  */
 
 let numeroGatos = 0;
-let proximapareja = "un millonario";
+let proximaPareja = "un millonario";
 let pais = "Noruega";
 let trabajo="nada";
 
-let futuro = "Tú estarás en " + pais + " trabajando de " + trabajo + " y tu pareja será " + proximapareja + " y tendréis " + numeroGatos + " gatos";
+let futuro = "Tú estarás en " + pais + " trabajando de " + trabajo + " y tu pareja será " + proximaPareja + " y tendréis " + numeroGatos + " gatos";
 
 console.log(futuro);
