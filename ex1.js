@@ -6,5 +6,6 @@ let numeroInicial = 12;
 let numeroMisterioso = 7; /* Solo puedes modificar esta línia */
 
 console.log("El número que debe aparecer a continuación debe ser un 5:");
+
 console.log(numeroInicial - numeroMisterioso);
 
