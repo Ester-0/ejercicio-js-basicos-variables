@@ -29,7 +29,6 @@ console.log(texto.indexOf("s"));
 console.log("Ejercicio 9: Posición del último carácter 's'"); 
 console.log(texto.lastIndexOf("s")); 
 
-
 console.log("Ejercicio 10: String en orden inverso"); 
     let textoSplit = texto.split("");
     let textoReverse = textoSplit.reverse();
